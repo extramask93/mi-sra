@@ -1,0 +1,319 @@
+Appendix A Summary of guidelines
+Dir 1.1 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 2.1 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 3.1 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.1 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.2 Advisory
+MISRA C 2012 ADD ME PLEASE
+Dir 4.3 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Dir 4.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Dir 4.6 Advisory
+MISRA C 2012 ADD ME PLEASE
+Dir 4.7 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.8 Advisory
+MISRA C 2012 ADD ME PLEASE
+Dir 4.9 Advisory
+MISRA C 2012 ADD ME PLEASE
+Dir 4.10 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.11 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.12 Required
+MISRA C 2012 ADD ME PLEASE
+Dir 4.13 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 1.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 1.2 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 1.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 2.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 2.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 2.3 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 2.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 2.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 2.6 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 2.7 Advisory
+Thou shalt use all of the function's formal parameters!
+Rule 3.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 3.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 4.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 4.2 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 5.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.5 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 5.9 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 6.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 6.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 7.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 7.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 7.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 7.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.5 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.7 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 8.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.9 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 8.10 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.11 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 8.12 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 8.13 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 8.14 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 9.1 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 9.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 9.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 9.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 9.5 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 10.1 Required
+Operands shall not be of an inappropriate essential type 
+Rule 10.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 10.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 10.4 Required
+Thou shalt not mix unsigned with signed!
+Rule 10.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 10.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 10.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 10.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 11.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 11.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 11.9 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 12.1 Advisory
+Thou shalt keep an eye for an operator precedence, and sprinke the parentheses!
+Rule 12.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 12.3 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 12.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 13.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 13.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 13.3 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 13.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 13.5 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 13.6 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 14.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 14.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 14.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 14.4 Required
+Thou shalt use boolean where bolean is due!
+Rule 15.1 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 15.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 15.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 15.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 15.5 Advisory
+Thou shalt not exit in the middle on a function!
+Rule 15.6 Required
+Thau shall use bracelets instead!
+Rule 15.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 16.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 16.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 16.3 Required
+An unconditional break statement shall terminate every switch-clause!
+Rule 16.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 16.5 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 16.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 16.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 17.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 17.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 17.3 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 17.4 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 17.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 17.6 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 17.7 Required
+Thou shalt not ignore function's return value!
+Rule 17.8 Advisory
+Thou shalt not modify function's parameters!
+Rule 18.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 18.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 18.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 18.4 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 18.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 18.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 18.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 18.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 19.1 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 19.2 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 20.1 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 20.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.5 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 20.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.9 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.10 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 20.11 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.12 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.13 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 20.14 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.2 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.4 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.5 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.6 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.7 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.8 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.9 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.10 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.11 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 21.12 Advisory
+MISRA C 2012 ADD ME PLEASE
+Rule 22.1 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 22.2 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 22.3 Required
+MISRA C 2012 ADD ME PLEASE
+Rule 22.4 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 22.5 Mandatory
+MISRA C 2012 ADD ME PLEASE
+Rule 22.6 Mandatory
+MISRA C 2012 ADD ME PLEASE
