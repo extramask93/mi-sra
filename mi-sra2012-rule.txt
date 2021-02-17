@@ -86,7 +86,7 @@ MISRA C 2012 ADD ME PLEASE
 Rule 7.2 Required
 MISRA C 2012 ADD ME PLEASE
 Rule 7.3 Required
-MISRA C 2012 ADD ME PLEASE
+Using upper case literal suffixes removes the potential ambiguity between "1" (digit 1) and "l" (letter el) for declaring literals.
 Rule 7.4 Required
 MISRA C 2012 ADD ME PLEASE
 Rule 8.1 Required
